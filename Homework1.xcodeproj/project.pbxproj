@@ -17,6 +17,8 @@
 		656CD4DD27A49E480009DDE9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 656CD4B327A49E450009DDE9 /* ContentView.swift */; };
 		656CD4DE27A49E480009DDE9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 656CD4B427A49E470009DDE9 /* Assets.xcassets */; };
 		656CD4DF27A49E480009DDE9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 656CD4B427A49E470009DDE9 /* Assets.xcassets */; };
+		656CD4F527A4B8A80009DDE9 /* Sphere.swift in Sources */ = {isa = PBXBuildFile; fileRef = 656CD4F427A4B8A80009DDE9 /* Sphere.swift */; };
+		656CD4F627A4B8A80009DDE9 /* Sphere.swift in Sources */ = {isa = PBXBuildFile; fileRef = 656CD4F427A4B8A80009DDE9 /* Sphere.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,7 @@
 		656CD4D227A49E480009DDE9 /* Tests macOS.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tests macOS.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		656CD4D627A49E480009DDE9 /* Tests_macOS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOS.swift; sourceTree = "<group>"; };
 		656CD4D827A49E480009DDE9 /* Tests_macOSLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOSLaunchTests.swift; sourceTree = "<group>"; };
+		656CD4F427A4B8A80009DDE9 /* Sphere.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sphere.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +102,7 @@
 			children = (
 				656CD4B227A49E450009DDE9 /* Homework1App.swift */,
 				656CD4B327A49E450009DDE9 /* ContentView.swift */,
+				656CD4F427A4B8A80009DDE9 /* Sphere.swift */,
 				656CD4B427A49E470009DDE9 /* Assets.xcassets */,
 			);
 			path = Shared;
@@ -301,6 +305,7 @@
 			files = (
 				656CD4DC27A49E480009DDE9 /* ContentView.swift in Sources */,
 				656CD4DA27A49E480009DDE9 /* Homework1App.swift in Sources */,
+				656CD4F527A4B8A80009DDE9 /* Sphere.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -310,6 +315,7 @@
 			files = (
 				656CD4DD27A49E480009DDE9 /* ContentView.swift in Sources */,
 				656CD4DB27A49E480009DDE9 /* Homework1App.swift in Sources */,
+				656CD4F627A4B8A80009DDE9 /* Sphere.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
